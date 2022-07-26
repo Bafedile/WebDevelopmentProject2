@@ -1,0 +1,32 @@
+li{
+    border-right: 1px solid #bbb;
+    float:left;
+}
+li:last-child{
+    border-right:none;
+}
+ul{
+    list-style-type:none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+}
+li a{
+    display:block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover{
+    background-color:blueviolet;
+}
+body{
+    background-image: url(cyber_eye.jpg);
+    background-size:cover;
+    color:blueviolet;
+
+}
+img{
+    width:500px;
+}

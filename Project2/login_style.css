@@ -1,0 +1,40 @@
+h2
+{
+    margin: 100px 350px;
+    color:teal;
+}
+
+body
+{
+    background-image: url(cyber_back.jpg);
+    background-size: cover;
+
+}
+.tab-entry
+{
+    text-indent: 75px;
+    tab-size:4;
+}
+.font-size{
+    font-size: small;
+}
+.btn{
+    width: 60px;
+}
+input{
+    background-color:steelblue;
+    border:0px;
+    text-align: center;
+    color:antiquewhite;
+    width: 200px;
+    
+}
+
+form{
+    
+    margin:150px 480px;
+    color:teal;
+    border-width: 15px;
+    border-color:teal;
+    
+}
